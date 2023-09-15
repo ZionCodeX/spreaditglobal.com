@@ -1,0 +1,6 @@
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "campaign_report_rows" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 36
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "query_string" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 37
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "recaptcha_sitekey" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 41
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "recaptcha_secretkey" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 42
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "test_email_prefix" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 43
+[14-Oct-2022 11:14:15 Africa/Lagos] PHP Warning:  Undefined array key "templates_lists_sorting" in /home/wealthcr/spreaditglobal.com/sendy/includes/settings/save.php on line 44

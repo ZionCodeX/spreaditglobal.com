@@ -1,0 +1,2 @@
+[03-Sep-2023 14:59:50 Africa/Lagos] PHP Warning:  Undefined array key "type2_custom_fields" in /home/wealthcr/spreaditglobal.com/sendy/includes/ares/add-autoresponder.php on line 14
+[03-Sep-2023 14:59:50 Africa/Lagos] PHP Warning:  Undefined array key "type3_custom_fields" in /home/wealthcr/spreaditglobal.com/sendy/includes/ares/add-autoresponder.php on line 15
