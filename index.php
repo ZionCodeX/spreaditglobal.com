@@ -18,7 +18,7 @@
 
     <!-- Header 
     ============================================= -->
-    <?php //include("components/inc_nav_bar.php"); ?>
+    <?php include("components/inc_nav_bar.php"); ?>
     <!-- End Header -->
 
 
