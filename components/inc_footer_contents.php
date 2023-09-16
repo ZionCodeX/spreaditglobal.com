@@ -126,7 +126,7 @@
                         <div class="col-lg-6 col-md-6 text-right link">
                             <ul>
                                 <li>
-                                    <a href="https://www.blog.spreaditglobal.com/contact">Contact</a>
+                                    <a href="https://www.spreaditglobal.com/maintenance">Contact</a>
                                 </li>
                                 <li>
                                     <a href="https://www.spreaditglobal.com/about">About</a>
