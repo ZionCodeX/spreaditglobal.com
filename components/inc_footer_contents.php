@@ -101,8 +101,8 @@
                                         </div>
                                         <div class="info">
                                             <h5>Phone:</h5>
-                                            <span><b>Nigeria:</b>(+234)-806-458-3664</span><hr>
-                                            <span><b>China:</b>(+86)-135-4442-9491</span><hr>
+                                            <span><b>Nigeria: </b>(+234)-806-458-3664</span><hr>
+                                            <span><b>China: </b>(+86)-135-4442-9491</span><hr>
                                         </div>
                                     </li>
                                 </ul>
