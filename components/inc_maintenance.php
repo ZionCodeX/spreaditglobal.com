@@ -13,7 +13,7 @@
         </div-->
     </div>
 
-
+  
 
 <div id="blog" class="blog-area bg-white full-width single default-padding">
 
